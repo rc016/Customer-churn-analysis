@@ -1,7 +1,7 @@
-# Customer-churn-analysis
+# Customer-churn-analysis (Machine Leanrning model)
 # Customer churn analysis is a key business practice used to understand why customers stop using a product or service. 
 # Code is written below while the ouput may not be shown in below codes. Output with codes are attached in file.
-
+# To analyse the customer churning we have used the Logistic Regression as the dependent variable is a categorical type.
 In [1]:
 import pandas as pd 
 import numpy as np
